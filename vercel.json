@@ -1,0 +1,9 @@
+{
+  "redirects": [
+    {
+      "source": "www.hangzhoutravel365.com",
+      "destination": "https://hangzhoutravel365.com",
+      "permanent": true
+    }
+  ]
+}
